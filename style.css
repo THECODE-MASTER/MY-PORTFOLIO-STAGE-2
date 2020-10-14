@@ -1,0 +1,39 @@
+
+.header {
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+}
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+.self {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: dimgray;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: black;
+    }
+
+.footer {
+    color:gold;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: dimgray;
+}
+
+a {
+color: darkgoldenrod;
+}
+
+p {
+    text-align: center;
+}
